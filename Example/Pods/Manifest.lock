@@ -1,0 +1,14 @@
+PODS:
+  - SimpleFeedback (0.1.0)
+
+DEPENDENCIES:
+  - SimpleFeedback (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleFeedback:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SimpleFeedback: 7ab5baeab1f20e9df418af4b67e583fbff16020a
+
+COCOAPODS: 0.36.4
